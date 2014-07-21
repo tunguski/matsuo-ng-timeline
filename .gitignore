@@ -8,6 +8,7 @@
 *.gz
 .idea/*
 *.DS_Store
+*.iml
 lib-cov
 pids
 logs
