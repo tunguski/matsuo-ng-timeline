@@ -1,0 +1,36 @@
+{
+  "name": "matsuo-ng-timeline",
+  "version": "0.1.0",
+  "authors": [
+    "Marek Romanowski <marek.romanowski@gmail.com>"
+  ],
+  "description": "Angular timeline",
+  "keywords": [
+    "angular",
+    "timeline"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0",
+    "angular-sanitize": "~1.2.0",
+    "bootstrap": "~3.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/tunguski/matsuo-ng-timeline",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "e7a12df79a7f00a7ff303029452f968f216b6efb"
+  },
+  "_source": "git://github.com/tunguski/matsuo-ng-timeline.git",
+  "_target": "*",
+  "_originalSource": "matsuo-ng-timeline"
+}
