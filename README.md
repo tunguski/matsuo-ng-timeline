@@ -40,12 +40,6 @@ angular.module('myApp', ['mt.timeline'])
 ## Demo
 http://tunguski.github.io/matsuo-ng-timeline/
 
-## Dependencies
-- required:
-	````ngSanitize````
-- optional
-	none
-
 See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
 
 ## Install
