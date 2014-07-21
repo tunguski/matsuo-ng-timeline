@@ -24,7 +24,7 @@ angular.module('myApp', ['mt.timeline'])
         subHeader: '<i class="glyphicon glyphicon-time"></i> 5 hours ago via Twitter',
         body: '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>' +
         '<hr><p>At vero eos et accusamus et iusto odio dignissimos ducimus.</p>' +
-        '<hr><p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil.</p>' +
+        '<hr><p>Nam libero tempore, cum soluta nobis est eligendi optio cumque.</p>' +
         '<hr><p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut.</p>'
       }, {
         icon: 'glyphicon glyphicon-credit-card',
